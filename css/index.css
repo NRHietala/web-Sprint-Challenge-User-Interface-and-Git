@@ -84,7 +84,23 @@ ul {
     display:flex;
     justify-content: space-between;
     align-items:center;
-    padding: 20px;
+    padding: 20px 0px;
+}
+
+.hero {
+    width: 100%;
+    margin-bottom: 20px;
+    background: url(img\jumbo-about.png) no-repeat;
+    display:block;
+    background-position: center;
+    background-size: cover;
+    text-align:center;
+    object-fit: fill;
+}
+
+.headtext {
+    padding: 5px;
+    border-bottom: 2px dashed black;
 }
 
 
@@ -94,10 +110,6 @@ ul {
     justify-content: space-evenly;
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
-}
-
-.hero {
-    padding: 20px;
 }
 
 
