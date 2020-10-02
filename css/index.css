@@ -87,6 +87,7 @@ ul {
     padding: 20px 0px;
 }
 
+
 .hero {
     width: 100%;
     margin-bottom: 20px;
@@ -98,9 +99,15 @@ ul {
     object-fit: fill;
 }
 
+.hero2 {
+    background-position: center;
+    background-size: cover;
+    text-align:center;
+}
+
 .headtext {
-    padding: 5px;
-    border-bottom: 2px dashed black;
+    padding: 15px;
+    border-bottom: 1px dashed black;
     margin-bottom: 10px;
 }
 
@@ -246,5 +253,13 @@ footer nav a {
 }
 
 .bot-section {
- 
+ padding: 30px;
+}
+
+.btn {
+    background:white;
+    padding: 8px 20px;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin:10px;
 }
