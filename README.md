@@ -34,13 +34,25 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+- I would say that semantic tags are a way of giving meaning to the content they contain. This helps SEO and also acccesbility.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+- Display tags are "bullies" they like to take up an entire row and push other things down.
+
+- Inline tags are the "ninja" and only take up the space they need. 
 
 3. What are the 4 areas of the box model?
 
+- Content, padding, border, margin
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+- On the cross axis.
+
 5. Explain why git is valuable to a team of developers.
+
+- Git is extremely valuable for a few reasons. Version control is extremely important and useful for rolling out new changes, and possbily reverting back if things don't work smoothly. Also being able to do things like branch and everyone being able to work on their own pieces and push changes. Can you imagine trying to code with a team on a live google document? Or even emailing each other back updated code? Also the added benefit of having a secure home on the cloud and being able to access your code from anywhere is extremely useful.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
